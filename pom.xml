@@ -15,9 +15,9 @@
         </modules>
 		
 	<scm>
-		<connection>scm:git:git@github.com:xaume40/repo.git</connection>
-		<url>scm:git:git@github.com:xaume40/repo.git</url>
-		<developerConnection>scm:git:git@github.com:xaume40/repo.git</developerConnection>
+		<connection>scm:git:git@github.com:xaume40/rep.git</connection>
+		<url>scm:git:git@github.com:xaume40/rep.git</url>
+		<developerConnection>scm:git:git@github.com:xaume40/rep.git</developerConnection>
 	</scm>		
 
         <dependencyManagement>
